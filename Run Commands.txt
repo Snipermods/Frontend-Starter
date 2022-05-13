@@ -1,0 +1,3 @@
+npm install #run this to install package.json requirements
+
+npm run start #Starts the local server
